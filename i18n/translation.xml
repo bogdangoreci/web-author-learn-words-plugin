@@ -5,6 +5,7 @@
         <language description="French" lang="fr_FR" localeDescription="Français"/>
         <language description="Japanese" lang="ja_JP" localeDescription="日本語"/>
         <language description="Dutch" lang="nl_NL" localeDescription="Nederlands"/>
+        <language description="Chinese" lang="zh_CN" localeDescription="Chinese"/>
     </languageList>
     <key value="Learn_word_X">
         <comment>Learn word action</comment>
@@ -13,6 +14,7 @@
         <val lang="fr_FR">Apprendre le mot "{0}"</val>
         <val lang="ja_JP">単語 "{0}" について学習</val>
         <val lang="nl_NL">Woord "{0}" leren</val>
+        <val lang="zh_CN">学习单词{0}</val>
     </key>
     <key value="cannot_learn_forbidden_word">
         <comment>Error message shown when trying to learn forbidden word.</comment>
@@ -21,5 +23,6 @@
         <val lang="fr_FR">Impossible d'ajouter un mot interdit.</val>
         <val lang="ja_JP">使用できない単語を追加することはできません。</val>
         <val lang="nl_NL">Kan verboden woord niet toevoegen.</val>
+        <val lang="zh_CN">无法学习禁语。</val>
     </key>
 </translation>
